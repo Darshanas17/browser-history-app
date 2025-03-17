@@ -1,0 +1,92 @@
+.bg-cont {
+  font-family: Roboto;
+  margin: 0;
+  height: 100vh;
+}
+.nav-bar {
+  background-color: #3367d6;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 20px;
+
+  height: 60px;
+}
+.app-logo-cont {
+  width: 400px;
+}
+.search-bar-cont {
+  width: 350px;
+  background-color: #2850a7;
+  border: 1px solid #ececec;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 32px;
+  border-radius: 3px;
+}
+.search-logo {
+  margin: 0px 10px;
+}
+.input {
+  width: 300px;
+  outline: none;
+  border: none;
+  background-color: #2850a7;
+}
+
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.history-cont {
+  list-style: none;
+
+  width: 1000px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 0;
+
+  background-color: #ffffff;
+}
+
+.h-list {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h-cont {
+  display: flex;
+  width: 800px;
+  align-items: center;
+}
+.h-logo {
+  width: 28px;
+  margin: 0px 10px;
+}
+.h-time {
+  color: #475569;
+}
+.h-title {
+  margin-right: 10px;
+}
+.h-domainUrl {
+  color: #64748b;
+}
+.empty-history-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #475569;
+  height: 100vh;
+}
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
