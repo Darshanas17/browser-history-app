@@ -1,6 +1,3 @@
-
----
-
 # Browser History App  
 
 🚀 **[Live Demo → Click Here](https://bhistoryd17.ccbp.tech/)** 🚀  
@@ -52,6 +49,3 @@ This project is licensed under the MIT License.
 
 ## Contact  
 For any queries, reach out to [Darshan](https://github.com/Darshanas17).  
-
----
-
